@@ -1,0 +1,56 @@
+#bold {
+    font-weight: bold;
+}
+
+#highlight {
+    display: inline-block;
+    background-color: yellow;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#catsenses {
+    padding-left: 50px;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+.media {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+#characteristics {
+    line-height: 1px;
+    width: 88%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid red;
+    color: red;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+td {
+    letter-spacing: -.3px;
+    padding: 20px 5px;
+}
+
+table {
+    width: 88%;
+    margin: auto;
+}
+
+#lion {
+    border: 5px solid red;
+}
